@@ -18,9 +18,3 @@ Explore the branches of this garden:
 - 📂 **Project**
 - 📚 **References**
 - 🗂️ **Inbox / Fleeting Notes**
-
-```dataview
-table Updated
-from ""
-where type = "permanent"
-sort Updated desc
