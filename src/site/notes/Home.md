@@ -8,7 +8,7 @@
 
 _A digital garden of connected thoughts, evolving notes, and personal systems—created to share and grow with others._
 
-> Created with care by Raymond De Leon to encourage exploration, collaboration, and learning.
+> Created with care by [[About Me \|Raymond De Leon]]) to encourage exploration, collaboration, and learning.
 
 ### 🔍 Quick Navigation
 
