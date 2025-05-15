@@ -20,9 +20,3 @@ Explore the branches of this garden:
 - 📂 **Project**
 - 📚 **References**
 - 🗂️ **Inbox / Fleeting Notes**
-
-```dataview
-table title, created
-from ""
-where type = "permanent"
-sort created desc
